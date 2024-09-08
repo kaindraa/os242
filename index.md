@@ -1,0 +1,3 @@
+- [My Log](TXT/mylog.txt)
+- [GitHub](https://github.com/kaindraa/os242/)
+- [Links](LINKS/)
