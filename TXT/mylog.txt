@@ -5,4 +5,8 @@
 ZCWC W00 200 L02 CLASSROOM/ZOOM meetings related
 ZCWC W00 20 L05 Quiz Related
 ZCWC W00 40 L10 Assignment #00
-ZCWC W00 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCWC W00 15 L06 References/Books/Documents/Browsing/GSGS Related
+
+ZCWC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCWC W01 40 L05 Quiz Related
+ZCWC W01 200 L10 Assignment #01
