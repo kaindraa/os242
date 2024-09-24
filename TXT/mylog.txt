@@ -14,4 +14,12 @@ ZCWC W01 200 L10 Assignment #01
 ZCWC W02 200 L02 CLASSROOM/ZOOM meetings related
 ZCWC W02 20 L05 Quiz Related
 ZCWC W02 200 L10 Assignment #02
-ZCWC W02 30 L06 References/Books/Documents/Browsing/GSGS Related
+ZCWC W02 30 L06 References/Books/Documents/Browsing/GSGS related
+
+ZCZC W03 200 L09 Weekly Assignments
+ZCZC W03 60 L01 SCELE/Discord related
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 60 L75 Helping a friend (OS related problem)
+ZCZC W03 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 10 L40 TXT/ related in general.
+
