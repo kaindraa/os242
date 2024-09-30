@@ -15,3 +15,9 @@ This article explains fundamental cybersecurity principles such as confidentiali
 
 ### [Linux Directory Structure (GeeksforGeeks)](https://www.geeksforgeeks.org/linux-directory-structure/)
 This article explains the Linux directory structure, including essential directories such as `/bin`, `/home`, `/var`, and more. It is interesting because understanding the directory structure is crucial for system administration tasks.
+
+### [GPG vs. SSH Key](https://locall.host/gpg-vs-ssh-key/)
+This website was very insightful in highlighting the differences between GPG and SSH keys. Although both are powerful tools, they have distinct purposes. If you need secure authentication for remote servers, SSH keys are the best choice. However, GPG keys are more suitable when you need to encrypt or sign emails and files.
+
+### [Linux Directory Structure in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
+This video effectively summarized the most common Linux directories in just 100 seconds. It helped me realize that the Linux directory layout isn’t too different from the Windows structure. I now have a much clearer understanding of how the directory system works in my virtual machine for this Operating Systems course.
