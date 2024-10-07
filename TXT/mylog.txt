@@ -30,3 +30,10 @@ ZCZC W04 60 L75 Helping a friend (OS related problem)
 ZCZC W04 150 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 10 L40 TXT/ related in general.
 ZCZC W04 40 L05 Study and attending weekly quiz
+
+ZCZC W05 240 L09 Weekly Assignments
+ZCZC W05 60 L01 SCELE/Discord related
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L75 Helping a friend (OS related problem)
+ZCZC W05 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 40 L05 Study and attending weekly quiz

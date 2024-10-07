@@ -21,3 +21,10 @@ This website was very insightful in highlighting the differences between GPG and
 
 ### [Linux Directory Structure in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 This video effectively summarized the most common Linux directories in just 100 seconds. It helped me realize that the Linux directory layout isn’t too different from the Windows structure. I now have a much clearer understanding of how the directory system works in my virtual machine for this Operating Systems course.
+
+
+### [Virtual Memory Explained (GeeksforGeeks)](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+This article explains the concept of virtual memory in operating systems, detailing how it works, its types (paging and segmentation), and how virtual memory is managed. It is interesting because virtual memory plays a critical role in enabling systems to handle large applications efficiently by using both RAM and disk space.
+
+### [C Structs Explained (YouTube)](https://www.youtube.com/watch?v=oKXP1HZ8xIs)
+This YouTube video gives a thorough explanation of `structs` in C programming. It breaks down the concept of structures, how they group multiple data types, and how they are used in C programs. It is interesting because understanding `structs` is crucial for writing efficient C code, especially in systems programming.
