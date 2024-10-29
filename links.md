@@ -28,3 +28,6 @@ This article explains the concept of virtual memory in operating systems, detail
 
 ### [C Structs Explained (YouTube)](https://www.youtube.com/watch?v=oKXP1HZ8xIs)
 This YouTube video gives a thorough explanation of `structs` in C programming. It breaks down the concept of structures, how they group multiple data types, and how they are used in C programs. It is interesting because understanding `structs` is crucial for writing efficient C code, especially in systems programming.
+
+### [Dynamic Memory Allocation in C (GeeksforGeeks)](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+This article on GeeksforGeeks thoroughly explains dynamic memory allocation in C using functions like `malloc`, `calloc`, `free`, and `realloc`. It covers how arrays in C are fixed in size, which can be limiting, and how dynamic memory allocation addresses this by allowing memory sizes to change at runtime. This process is essential for flexible memory management, especially in situations where data size might grow or shrink, and is foundational for efficient data structure implementations in C.
