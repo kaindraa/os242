@@ -43,7 +43,7 @@ ZCZC W06 90 L01 SCELE/Discord related
 ZCZC W06 90 L75 Helping a friend (OS related problem)
 ZCZC W06 150 L06 References/Books/Documents/Browsing/GSGS related
 
-ZCZC W06 270 L09 Weekly Assignments
-ZCZC W06 120 L01 SCELE/Discord related
-ZCZC W06 100 L75 Helping a friend (OS related problem)
-ZCZC W06 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 270 L09 Weekly Assignments
+ZCZC W07 120 L01 SCELE/Discord related
+ZCZC W07 100 L75 Helping a friend (OS related problem)
+ZCZC W07 120 L06 References/Books/Documents/Browsing/GSGS related
