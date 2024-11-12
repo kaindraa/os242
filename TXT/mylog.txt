@@ -47,3 +47,8 @@ ZCZC W07 270 L09 Weekly Assignments
 ZCZC W07 120 L01 SCELE/Discord related
 ZCZC W07 100 L75 Helping a friend (OS related problem)
 ZCZC W07 120 L06 References/Books/Documents/Browsing/GSGS related
+
+ZCZC W08 400 L09 Weekly Assignments
+ZCZC W08 90 L01 SCELE/Discord related
+ZCZC W08 60 L75 Helping a friend (OS related problem)
+ZCZC W08 90 L06 References/Books/Documents/Browsing/GSGS related
