@@ -31,3 +31,15 @@ This YouTube video gives a thorough explanation of `structs` in C programming. I
 
 ### [Dynamic Memory Allocation in C (GeeksforGeeks)](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 This article on GeeksforGeeks thoroughly explains dynamic memory allocation in C using functions like `malloc`, `calloc`, `free`, and `realloc`. It covers how arrays in C are fixed in size, which can be limiting, and how dynamic memory allocation addresses this by allowing memory sizes to change at runtime. This process is essential for flexible memory management, especially in situations where data size might grow or shrink, and is foundational for efficient data structure implementations in C.
+
+### [What is MD5? (TechTarget)](https://www.techtarget.com/searchsecurity/definition/MD5)  
+This article from TechTarget explains the MD5 (Message-Digest Algorithm 5) hashing algorithm, a one-way cryptographic function designed for data integrity and message authentication. Originally intended for secure digital signatures, MD5 is now deprecated for cryptographic use due to its vulnerability to collisions. However, it is still commonly used as a non-cryptographic checksum to verify data integrity.
+
+### [What is GCC? (Incredibuild)](https://www.incredibuild.com/integrations/gcc)
+This article from Incredibuild provides an overview of the GNU Compiler Collection (GCC), a robust set of compilers supporting languages like C, C++, and Fortran, commonly used across Linux, Windows, and other operating systems. Created by the Free Software Foundation, GCC is essential for transforming source code into executable binaries by following the UNIX philosophy of modular tool usage. It’s readily available for installation on major platforms and includes powerful features for code optimization, cross-platform compilation, and multi-language support.
+
+### [What is a Cross-Compiler and Its Applications (Medium)](https://medium.com/@harsh.bihani20/cross-compiler-and-its-applications-37b6b7c76d36)  
+This article explores cross-compilers, tools for compiling code on one system for another platform. Widely used in modern software development, they support tasks like embedded systems, game development, and cross-platform apps. The article explains how cross-compilers work and highlights their benefits, such as portability, time-saving, and cost-effectiveness, making them essential for versatile software creation.
+
+### [GCC Linux (Javatpoint)](https://www.javatpoint.com/gcc-linux)  
+This article explains GCC (GNU Compiler Collection) as a powerful and versatile compiler system widely used on Linux for programming in languages like C, C++, and Fortran. As a core part of the GNU toolchain, GCC transforms source code into executable files through preprocessing, compiling, assembling, and linking. The article highlights its history, from its 1987 release for C programming to its adoption as the standard Linux compiler, and explores its components like GNU Make and GDB. It also provides guidance on installation, usage, and practical GCC command examples for developers of all levels.
