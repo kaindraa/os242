@@ -56,3 +56,7 @@ ZCZC W08 90 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W09 450 L09 Weekly Assignments
 ZCZC W09 90 L01 SCELE/Discord related
 ZCZC W09 90 L06 References/Books/Documents/Browsing/GSGS related
+
+ZCZC W10 600 L09 Weekly Assignments
+ZCZC W10 30 L01 SCELE/Discord related
+ZCZC W10 30 L06 References/Books/Documents/Browsing/GSGS related
